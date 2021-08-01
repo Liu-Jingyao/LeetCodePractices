@@ -26,7 +26,6 @@ class Solution:
             start_of_no_increase += 1
             end_index -= 1
 
-
 s = Solution()
 while True:
     nums = eval(input())
